@@ -43,7 +43,7 @@ main :: func(): void {
         <img height="64px" src="https://www.r-project.org/Rlogo.png">
       </td>
       <td width="25%" align="center">
-        <span>SQL</span><br><br><br>
+        <span>MS SQL Server</span><br><br><br>
         <img height="64px" src="https://spng.subpng.com/20180802/fh/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fad8f06.3803801615332192317109.jpg">
       </td>
       <td width="25%" align="center">
