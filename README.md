@@ -53,8 +53,8 @@ main :: func(): void {
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Amazon Sagemaker</span><br><br><br>
-        <img height="64px" src="https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2018/04/24/SageMaker.jpg">
+        <span>Deep Learning</span><br><br><br>
+        <img height="64px" src="https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2019/01/AI-artificial-intelligence-brain-deep-learning.jpg?resize=1024%2C724&ssl=1">
       </td>
       <td width="25%" align="center">
         <span>JupyterNotebook</span><br><br><br>
