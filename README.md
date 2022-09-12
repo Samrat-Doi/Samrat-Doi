@@ -39,8 +39,8 @@ main :: func(): void {
         <img height="64px" src="https://nyesteventuretech.com/images/Machine-Learning.jpg">
       </td>
       <td width="25%" align="center">
-        <span>R-Programming</span><br><br><br>
-        <img height="64px" src="https://www.r-project.org/Rlogo.png">
+        <span>Natural Language Processing</span><br><br><br>
+        <img height="64px" src="https://www.readspeaker.ai/wp-content/uploads/2021/04/nlu-vs-nlp-readspeaker-840x400.jpg">
       </td>
       <td width="25%" align="center">
         <span>MS SQL Server</span><br><br><br>
